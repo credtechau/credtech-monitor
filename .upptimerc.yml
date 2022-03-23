@@ -18,7 +18,7 @@ status-website:
   baseUrl: /credtech-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CREDTech Uptime
-  introTitle: "CREDTech Services Status"
+  introTitle: "CREDTech Service Status"
   navbar:
     - title: Status
       href: /

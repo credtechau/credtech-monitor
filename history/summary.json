@@ -4,7 +4,7 @@
     "url": "https://platform.wefund.io/login",
     "icon": "https://favicons.githubusercontent.com/platform.wefund.io",
     "slug": "wefund",
-    "status": "up",
+    "status": "down",
     "uptime": "95.86%",
     "uptimeDay": "95.86%",
     "uptimeWeek": "95.86%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 704,
-    "timeWeek": 704,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "time": 718,
+    "timeDay": 718,
+    "timeWeek": 718,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {}
   }
 ]

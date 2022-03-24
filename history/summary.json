@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/platform.wefund.io",
     "slug": "wefund",
     "status": "down",
-    "uptime": "95.86%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "95.86%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "95.86%",
+    "uptime": "88.64%",
+    "uptimeDay": "88.64%",
+    "uptimeWeek": "88.64%",
+    "uptimeMonth": "88.64%",
+    "uptimeYear": "88.64%",
     "time": 862,
     "timeDay": 862,
     "timeWeek": 862,
     "timeMonth": 862,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2022-03-23": 44
+      "2022-03-24": 43,
+      "2022-03-23": 87
     }
   },
   {

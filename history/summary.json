@@ -25,7 +25,7 @@
     "url": "https://dev.settletech.io/login",
     "icon": "https://favicons.githubusercontent.com/dev.settletech.io",
     "slug": "settletech-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -37,6 +37,7 @@
     "timeMonth": 729,
     "timeYear": 729,
     "dailyMinutesDown": {
+      "2022-04-11": 0,
       "2022-04-08": 21,
       "2022-03-28": 16
     }

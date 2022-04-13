@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.19%",
-    "time": 880,
-    "timeDay": 801,
-    "timeWeek": 885,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "time": 877,
+    "timeDay": 802,
+    "timeWeek": 875,
+    "timeMonth": 877,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2022-03-24": 155,
       "2022-03-23": 87
@@ -32,8 +32,8 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
     "time": 717,
-    "timeDay": 650,
-    "timeWeek": 723,
+    "timeDay": 680,
+    "timeWeek": 722,
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {
@@ -41,5 +41,41 @@
       "2022-04-08": 21,
       "2022-03-28": 16
     }
+  },
+  {
+    "name": "Settletech [STAGING]",
+    "url": "https://staging.settletech.io/login",
+    "icon": "https://favicons.githubusercontent.com/staging.settletech.io",
+    "slug": "settletech-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 639,
+    "timeDay": 639,
+    "timeWeek": 639,
+    "timeMonth": 639,
+    "timeYear": 639,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Settletech [PRODUCTION]",
+    "url": "https://platform.settletech.io/login",
+    "icon": "https://favicons.githubusercontent.com/platform.settletech.io",
+    "slug": "settletech-production",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 637,
+    "timeDay": 637,
+    "timeWeek": 637,
+    "timeMonth": 637,
+    "timeYear": 637,
+    "dailyMinutesDown": {}
   }
 ]

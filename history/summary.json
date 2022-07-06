@@ -28,12 +28,12 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.89%",
     "time": 741,
     "timeDay": 575,
-    "timeWeek": 791,
+    "timeWeek": 823,
     "timeMonth": 740,
     "timeYear": 741,
     "dailyMinutesDown": {
@@ -68,7 +68,7 @@
     "url": "https://platform.settletech.io/login",
     "icon": "https://favicons.githubusercontent.com/platform.settletech.io",
     "slug": "settletech-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -79,6 +79,8 @@
     "timeWeek": 742,
     "timeMonth": 716,
     "timeYear": 730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-06": 0
+    }
   }
 ]

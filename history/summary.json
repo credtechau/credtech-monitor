@@ -57,19 +57,19 @@
     "url": "https://staging.settletech.io/login",
     "icon": "https://favicons.githubusercontent.com/staging.settletech.io",
     "slug": "settletech-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 754,
-    "timeDay": 930,
-    "timeWeek": 813,
+    "timeDay": 849,
+    "timeWeek": 807,
     "timeMonth": 796,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2022-09-14": 0
+      "2022-09-14": 44
     }
   },
   {

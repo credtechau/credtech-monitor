@@ -5,12 +5,18 @@ repo: credtech-monitor # The name of this repository
 sites:
   - name: Wefund
     url: https://platform.wefund.io/login
-  - name: Settletech [DEV]
+  - name: Settletech-FE [DEV]
     url: https://dev.settletech.io/login
-  - name: Settletech [STAGING]
+  - name: Settletech-BE [DEV]
+    url: https://dev.settletech.io/api/metadata
+  - name: Settletech-FE [STAGING]
     url: https://staging.settletech.io/login
-  - name: Settletech [PRODUCTION]
+  - name: Settletech-BE [STAGING]
+    url: https://staging.settletech.io/api/metadata
+  - name: Settletech-FE [PRODUCTION]
     url: https://platform.settletech.io/login
+  - name: Settletech-BE [PRODUCTION]
+    url: https://platform.settletech.io/api/metadata
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

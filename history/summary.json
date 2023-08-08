@@ -4,11 +4,11 @@
     "url": "https://platform.wefund.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/platform.wefund.io.ico",
     "slug": "wefund",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 950,
     "timeDay": 943,
@@ -16,6 +16,7 @@
     "timeMonth": 971,
     "timeYear": 960,
     "dailyMinutesDown": {
+      "2023-08-08": 4,
       "2023-02-23": 96,
       "2023-01-25": 16
     }
@@ -25,10 +26,10 @@
     "url": "https://dev.settletech.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/dev.settletech.io.ico",
     "slug": "settletech-fe-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 803,
@@ -37,6 +38,7 @@
     "timeMonth": 799,
     "timeYear": 803,
     "dailyMinutesDown": {
+      "2023-08-08": 3,
       "2023-07-13": 33,
       "2023-07-05": 21
     }
@@ -46,10 +48,10 @@
     "url": "https://dev.settletech.io/api/metadata",
     "icon": "https://icons.duckduckgo.com/ip3/dev.settletech.io.ico",
     "slug": "settletech-be-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.83%",
     "time": 192,
@@ -58,6 +60,7 @@
     "timeMonth": 188,
     "timeYear": 192,
     "dailyMinutesDown": {
+      "2023-08-08": 2,
       "2023-07-13": 33,
       "2023-07-05": 21,
       "2023-06-06": 102
@@ -68,10 +71,10 @@
     "url": "https://staging.settletech.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/staging.settletech.io.ico",
     "slug": "settletech-fe-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 812,
@@ -79,17 +82,19 @@
     "timeWeek": 811,
     "timeMonth": 814,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 2
+    }
   },
   {
     "name": "Settletech-BE [STAGING]",
     "url": "https://staging.settletech.io/api/metadata",
     "icon": "https://icons.duckduckgo.com/ip3/staging.settletech.io.ico",
     "slug": "settletech-be-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 190,
@@ -98,6 +103,7 @@
     "timeMonth": 189,
     "timeYear": 190,
     "dailyMinutesDown": {
+      "2023-08-08": 1,
       "2023-06-16": 87,
       "2023-06-15": 459,
       "2023-06-13": 17
@@ -108,9 +114,9 @@
     "url": "https://platform.settletech.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/platform.settletech.io.ico",
     "slug": "settletech-fe-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,7 +125,9 @@
     "timeWeek": 815,
     "timeMonth": 801,
     "timeYear": 805,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 0
+    }
   },
   {
     "name": "Settletech-BE [PRODUCTION]",

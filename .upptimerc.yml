@@ -6,15 +6,15 @@ sites:
   - name: Wefund-FE [PROD]
     url: https://platform.wefund.io/login
   - name: Wefund-BE [PROD]
-    url: https://platform.wefund.io/api/users/bdmList
+    url: https://platform.wefund.io/api/loans/lenders
   - name: Wefund-FE [STAGING]
     url: https://staging.wefund.io/login
   - name: Wefund-BE [STAGING]
-    url: https://platform.wefund.io/api/users/bdmList
+    url: https://staging.wefund.io/api/loans/lenders
   - name: Wefund-FE [DEV]
     url: https://dev.wefund.io/login
   - name: Wefund-BE [DEV]
-    url: https://dev.wefund.io/api/users/bdmList
+    url: https://dev.wefund.io/api/loans/lenders
   - name: Settletech-FE [DEV]
     url: https://dev.settletech.io/login
   - name: Settletech-BE [DEV]

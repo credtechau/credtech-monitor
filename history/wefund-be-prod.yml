@@ -1,7 +1,7 @@
-url: https://platform.wefund.io/api/users/bdmList
-status: down
-code: 404
-responseTime: 211
-lastUpdated: 2023-11-15T03:17:08.240Z
+url: https://platform.wefund.io/api/loans/lenders
+status: up
+code: 200
+responseTime: 149
+lastUpdated: 2023-11-15T03:27:57.813Z
 startTime: 2023-11-15T03:17:07.612Z
 generator: Upptime <https://github.com/upptime/upptime>

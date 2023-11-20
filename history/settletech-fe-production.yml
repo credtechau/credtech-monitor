@@ -1,7 +1,7 @@
 url: https://platform.settletech.io/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-20T13:16:21.725Z
+status: up
+code: 200
+responseTime: 799
+lastUpdated: 2023-11-20T13:27:23.526Z
 startTime: 2023-06-06T03:51:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>

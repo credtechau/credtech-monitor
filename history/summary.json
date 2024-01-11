@@ -94,19 +94,19 @@
     "url": "https://dev.wefund.io/api/loans/lenders",
     "icon": "https://icons.duckduckgo.com/ip3/dev.wefund.io.ico",
     "slug": "wefund-be-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 194,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 204,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 203,
+    "timeDay": 177,
+    "timeWeek": 196,
+    "timeMonth": 201,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-01-11": 0
+      "2024-01-11": 9
     }
   },
   {

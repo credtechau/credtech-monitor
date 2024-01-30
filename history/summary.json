@@ -112,9 +112,9 @@
     "url": "https://dev.settletech.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/dev.settletech.io.ico",
     "slug": "settletech-fe-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -124,6 +124,7 @@
     "timeMonth": 851,
     "timeYear": 840,
     "dailyMinutesDown": {
+      "2024-01-30": 0,
       "2023-07-13": 33,
       "2023-07-05": 21
     }
@@ -133,9 +134,9 @@
     "url": "https://dev.settletech.io/api/metadata",
     "icon": "https://icons.duckduckgo.com/ip3/dev.settletech.io.ico",
     "slug": "settletech-be-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -145,6 +146,7 @@
     "timeMonth": 202,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2024-01-30": 0,
       "2023-07-13": 33,
       "2023-07-05": 21,
       "2023-06-06": 102

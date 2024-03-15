@@ -4,9 +4,9 @@
     "url": "https://platform.wefund.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/platform.wefund.io.ico",
     "slug": "wefund-fe-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 991,
     "timeMonth": 1033,
     "timeYear": 1035,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   },
   {
     "name": "Wefund-BE [PROD]",

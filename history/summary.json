@@ -40,9 +40,9 @@
     "url": "https://staging.wefund.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/staging.wefund.io.ico",
     "slug": "wefund-fe-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 937,
     "timeMonth": 972,
     "timeYear": 1022,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   },
   {
     "name": "Wefund-BE [STAGING]",
     "url": "https://staging.wefund.io/api/loans/lenders",
     "icon": "https://icons.duckduckgo.com/ip3/staging.wefund.io.ico",
     "slug": "wefund-be-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 179,
     "timeMonth": 186,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   },
   {
     "name": "Wefund-FE [DEV]",

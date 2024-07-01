@@ -4,9 +4,9 @@
     "url": "https://platform.wefund.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/platform.wefund.io.ico",
     "slug": "wefund-fe-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1712,
     "timeMonth": 1156,
     "timeYear": 1050,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 0
+    }
   },
   {
     "name": "Wefund-BE [PROD]",
     "url": "https://platform.wefund.io/api/loans/lenders",
     "icon": "https://icons.duckduckgo.com/ip3/platform.wefund.io.ico",
     "slug": "wefund-be-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 199,
     "timeMonth": 187,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 0
+    }
   },
   {
     "name": "Wefund-FE [STAGING]",
     "url": "https://staging.wefund.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/staging.wefund.io.ico",
     "slug": "wefund-fe-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 1098,
     "timeMonth": 1011,
     "timeYear": 1023,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 0
+    }
   },
   {
     "name": "Wefund-BE [STAGING]",
     "url": "https://staging.wefund.io/api/loans/lenders",
     "icon": "https://icons.duckduckgo.com/ip3/staging.wefund.io.ico",
     "slug": "wefund-be-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 203,
     "timeMonth": 190,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 0
+    }
   },
   {
     "name": "Wefund-FE [DEV]",
     "url": "https://dev.wefund.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/dev.wefund.io.ico",
     "slug": "wefund-fe-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +95,18 @@
     "timeWeek": 1107,
     "timeMonth": 1019,
     "timeYear": 1020,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 0
+    }
   },
   {
     "name": "Wefund-BE [DEV]",
     "url": "https://dev.wefund.io/api/loans/lenders",
     "icon": "https://icons.duckduckgo.com/ip3/dev.wefund.io.ico",
     "slug": "wefund-be-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +115,9 @@
     "timeWeek": 201,
     "timeMonth": 187,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 0
+    }
   },
   {
     "name": "Settletech-FE [DEV]",

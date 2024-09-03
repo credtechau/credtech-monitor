@@ -1,7 +1,7 @@
 url: https://staging.wefund.io/api/loans/lenders
-status: down
-code: 502
-responseTime: 138
-lastUpdated: 2024-09-03T11:35:24.255Z
+status: up
+code: 200
+responseTime: 149
+lastUpdated: 2024-09-03T22:53:37.338Z
 startTime: 2023-11-15T03:17:12.424Z
 generator: Upptime <https://github.com/upptime/upptime>

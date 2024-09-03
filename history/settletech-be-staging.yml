@@ -1,7 +1,7 @@
 url: https://staging.settletech.io/api/metadata
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-03T06:23:46.346Z
+status: up
+code: 200
+responseTime: 207
+lastUpdated: 2024-09-03T06:36:16.406Z
 startTime: 2023-06-06T03:51:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>

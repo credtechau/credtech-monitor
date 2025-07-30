@@ -40,19 +40,19 @@
     "url": "https://staging.wefund.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/staging.wefund.io.ico",
     "slug": "wefund-fe-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1036,
-    "timeDay": 1020,
-    "timeWeek": 958,
-    "timeMonth": 1045,
+    "timeDay": 965,
+    "timeWeek": 952,
+    "timeMonth": 1041,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2025-07-30": 1
+      "2025-07-30": 10
     }
   },
   {
@@ -93,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 696,
+      "2025-07-30": 706,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -477,7 +477,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 696,
+      "2025-07-30": 706,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -861,7 +861,7 @@
     "timeMonth": 0,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-07-30": 696,
+      "2025-07-30": 706,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -1105,7 +1105,7 @@
     "timeMonth": 0,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-07-30": 696,
+      "2025-07-30": 706,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -1349,7 +1349,7 @@
     "timeMonth": 0,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-07-30": 696,
+      "2025-07-30": 706,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -1583,7 +1583,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.settletech.io.ico",
     "slug": "settletech-be-staging",
     "status": "down",
-    "uptime": "71.35%",
+    "uptime": "71.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1594,7 +1594,7 @@
     "timeMonth": 0,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-07-30": 696,
+      "2025-07-30": 706,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -1828,7 +1828,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/platform.settletech.io.ico",
     "slug": "settletech-fe-production",
     "status": "down",
-    "uptime": "71.42%",
+    "uptime": "71.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1839,7 +1839,7 @@
     "timeMonth": 0,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2025-07-30": 696,
+      "2025-07-30": 706,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -2083,7 +2083,7 @@
     "timeMonth": 0,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-07-30": 696,
+      "2025-07-30": 706,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,

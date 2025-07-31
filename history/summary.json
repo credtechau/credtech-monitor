@@ -4,28 +4,30 @@
     "url": "https://platform.wefund.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/platform.wefund.io.ico",
     "slug": "wefund-fe-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1054,
+    "time": 1053,
     "timeDay": 1175,
     "timeWeek": 1067,
     "timeMonth": 1072,
     "timeYear": 1053,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-31": 1
+    }
   },
   {
     "name": "Wefund-BE [PROD]",
     "url": "https://platform.wefund.io/api/loans/lenders",
     "icon": "https://icons.duckduckgo.com/ip3/platform.wefund.io.ico",
     "slug": "wefund-be-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
@@ -33,17 +35,19 @@
     "timeWeek": 181,
     "timeMonth": 190,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-31": 1
+    }
   },
   {
     "name": "Wefund-FE [STAGING]",
     "url": "https://staging.wefund.io/login",
     "icon": "https://icons.duckduckgo.com/ip3/staging.wefund.io.ico",
     "slug": "wefund-fe-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1036,
@@ -51,17 +55,19 @@
     "timeWeek": 955,
     "timeMonth": 1045,
     "timeYear": 1042,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-31": 1
+    }
   },
   {
     "name": "Wefund-BE [STAGING]",
     "url": "https://staging.wefund.io/api/loans/lenders",
     "icon": "https://icons.duckduckgo.com/ip3/staging.wefund.io.ico",
     "slug": "wefund-be-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 188,
@@ -70,6 +76,7 @@
     "timeMonth": 190,
     "timeYear": 188,
     "dailyMinutesDown": {
+      "2025-07-31": 1,
       "2024-09-04": 308,
       "2024-09-03": 724
     }
@@ -91,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
+      "2025-07-31": 14,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -475,7 +482,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
+      "2025-07-31": 14,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -859,7 +866,7 @@
     "timeMonth": 0,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
+      "2025-07-31": 14,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -1104,7 +1111,7 @@
     "timeMonth": 0,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
+      "2025-07-31": 14,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -1349,7 +1356,7 @@
     "timeMonth": 0,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
+      "2025-07-31": 14,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -1595,7 +1602,7 @@
     "timeMonth": 0,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
+      "2025-07-31": 14,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -1841,7 +1848,7 @@
     "timeMonth": 0,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
+      "2025-07-31": 15,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -2086,7 +2093,7 @@
     "timeMonth": 0,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
+      "2025-07-31": 15,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
